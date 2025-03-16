@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coming Soon: MobileDog</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Coming Soon: MobileDog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;MobileDog is going to redefine convenience with &lt;strong&gt;real time data&lt;/strong&gt; for scheduling, status, and &amp;rsquo;en route&amp;rsquo; updates. We aim to please and to provide excellent customer service at the best price.  We&amp;rsquo;ve been doing this as a family run business for over fifty years in the northern Virginia area.&lt;/p&gt;&#xA;&lt;p&gt;Our Mission Statement:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Utilize technology to provide the most convenient experience possible&lt;/li&gt;&#xA;&lt;li&gt;Always provide you with the best quality for the best price&lt;/li&gt;&#xA;&lt;li&gt;Utilize our decades of experience to make sure you never have to worry about anything&lt;/li&gt;&#xA;&lt;li&gt;Always use the most gentle and the best products on your best friend&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Learn more at &lt;a href=&#34;mailto:info@mobiledog.com&#34;&gt;info@mobiledog.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

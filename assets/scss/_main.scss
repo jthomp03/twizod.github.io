@@ -191,7 +191,7 @@ figure {
 
 em, i, strong {
   // Default
-  color: $light-color-variant;
+  color: $dark-color-variant;
 
   @media (prefers-color-scheme: dark) {
     color: $dark-color-variant;
