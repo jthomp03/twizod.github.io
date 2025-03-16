@@ -28,6 +28,15 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
+### Adding below from 
+### https://discourse.gohugo.io/t/theme-working-on-localhost-but-not-in-github-pages/52897/2
+[markup.goldmark.renderHooks.image]
+enableDefault = true
+
+[markup.goldmark.renderHooks.link]
+enableDefault = true
+######################################################
+
 [pagination]
   disableAliases = false
   pagerSize = 20
