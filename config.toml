@@ -1,10 +1,10 @@
-baseURL = "/"
+baseURL = "https://jthomp03.github.io/twizod.github.io/"
 title   = "Coming Soon: MobileDog"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
-PygmentsCodeFences = true
-PygmentsStyle = "monokai"
+#PygmentsCodeFences = true
+#PygmentsStyle = "monokai"
 
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
@@ -17,7 +17,7 @@ publishDir   = "public"
 buildDrafts  = false
 buildFuture  = false
 buildExpired = false
-canonifyURLs = true
+#canonifyURLs = true
 
 enableRobotsTXT = true
 enableGitInfo   = false
